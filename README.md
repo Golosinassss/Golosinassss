@@ -1,16 +1,27 @@
-## Hi there 👋
+# ⚡ GOLOSINASSSS | Soberanía Creativa
 
-<!--
-**Golosinassss/Golosinassss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> **Ecosistema documental transmedia y archivo vivo de memoria musical contemporánea.**
+> Leticia · Amazonas · Bogotá D.C. · Colombia
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👁️ Visión General
+GOLOSINASSSS es un espacio de producción y preservación artística enfocado en formatos experimentales, sonido infinito, fotografía documental, montaje y animación digital. Construimos arquitecturas de metadatos para conectar la memoria de nuestro territorio con narrativas contemporáneas.
+
+---
+
+## 🛠️ Proyectos Destacados
+
+*   **[Portal Web Oficial](https://www.golosinassss.com)**: Archivo vivo interactivo que hospeda nuestro catálogo documental transmedia.
+*   **Ecosistema Transmedia**: Desarrollo de formatos de postproducción y animación digital bajo mandatos de soberanía creativa.
+
+---
+
+## 🌐 Conexiones
+*   **Instagram**: [@golosinassss](https://www.instagram.com/golosinassss/)
+*   **YouTube**: [Canal Oficial GOLOSINASSSS](https://www.youtube.com/@golosinassss)
+*   **Web**: [golosinassss.com](https://www.golosinassss.com)
+*   **Contacto**: contacto@golosinassss.com
+
+---
+*Leticia, Amazonas. Colombia*
